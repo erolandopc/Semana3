@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicación Android</string>
+    <string name="lbl_saludo">Bienvenido</string>
+    <string name="lbl_boton">Entrar</string>
+</resources>
